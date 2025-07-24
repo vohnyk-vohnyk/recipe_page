@@ -29,9 +29,12 @@ h1 {
 }
 
 h1, h2 {
-  font-family: 'Young Serif', serif;
+
+  font-family: 'Outfit', serif;
   color: hsl(14, 45%, 36%); /* Brown 800 */
 }
+
+
 
 /* Опис під заголовком */
 p {
