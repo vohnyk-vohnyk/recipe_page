@@ -35,3 +35,26 @@ p {
   margin-bottom: 2rem;
   line-height: 1.6;
 }
+
+.prep-time {
+  background-color: #fff7fb;
+  padding: 1.5rem;
+  border-radius: 1rem;
+  margin-bottom: 2rem;
+}
+
+.prep-time h2 {
+  color: #7b284f;
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+}
+
+.prep-time ul {
+  padding-left: 1.2rem;
+  list-style-type: disc;
+  color: #5f564d;
+}
+
+.prep-time li {
+  margin-bottom: 0.5rem;
+}
