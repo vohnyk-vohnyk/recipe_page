@@ -13,3 +13,25 @@ body {
   line-height: 1.6;
   padding: 2rem;
 }
+
+
+    img {
+  width: 100%; /* зображення розтягується на всю ширину */
+  border-radius: 1rem; /* округлення країв */
+  margin-bottom: 1.5rem; /* відступ знизу */
+}
+
+/* Заголовок рецепту */
+h1 {
+  font-size: 2.5rem;
+  color: #312e2c;
+  margin-bottom: 1rem;
+}
+
+/* Опис під заголовком */
+p {
+  color: #5f564d;
+  font-size: 1rem;
+  margin-bottom: 2rem;
+  line-height: 1.6;
+}
